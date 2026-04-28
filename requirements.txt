@@ -1,8 +1,9 @@
 streamlit==1.33.0
-pandas==2.2.1
-google-generativeai==0.4.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.12.0
 fairlearn==0.10.0
-scikit-learn==1.4.1.post1
-numpy
-altair
-openpyxl
+google-generativeai
+altair==5.3.0
+openpyxl==3.1.2
