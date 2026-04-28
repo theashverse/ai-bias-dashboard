@@ -1,8 +1,8 @@
-streamlit==1.33.0
-pandas==2.2.1
-google-generativeai==0.4.1
-fairlearn==0.10.0
-scikit-learn==1.4.1.post1
+streamlit
+pandas
 numpy
+scikit-learn
+fairlearn
+google-generativeai
 altair
 openpyxl
